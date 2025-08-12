@@ -1,0 +1,36 @@
+{
+  "name": "@thecoderzeus/scroll-reveal-fx",
+  "version": "1.1.2",
+  "description": "Uma suíte de animação de alta performance, modular e sem dependências, para criar interações ricas e elegantes baseadas no scroll e no mouse.",
+  "main": "index.js",
+  "type": "module",
+  "files": [
+    "index.js",
+    "src",
+    "README.md",
+    "LICENSE"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheCoderZeus/scroll-reveal-fx.git"
+  },
+  "keywords": [
+    "scroll",
+    "reveal",
+    "animation",
+    "effects",
+    "scroll-reveal",
+    "parallax",
+    "svg-animation",
+    "text-animation",
+    "intersection-observer",
+    "timeline",
+    "scrub",
+    "react",
+    "nextjs",
+    "typescript"
+  ],
+  "author": "thecoderzeus",
+  "license": "MIT",
+  "homepage": "https://github.com/TheCoderZeus/scroll-reveal-fx#readme"
+}
